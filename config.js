@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Daniil',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Good night!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -75,6 +75,18 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
+    {
+      id: '5',
+      name: 'Telegram Web',
+      icon: 'send',
+      link: 'https://web.telegram.org/',
+    },
+    {
+      id: '6',
+      name: 'ChatGPT',
+      icon: 'messages-square',
+      link: 'https://chat.openai.com/'
+    }
 		
 	],
 
